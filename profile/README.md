@@ -18,8 +18,7 @@ We run TechWolf AI-first, and we open up the tools and training we use ourselves
 
 ## Work-domain AI research
 
-- **[WorkRB](https://github.com/techwolf-ai/workrb)** — the Work Research Benchmark: unified benchmarks and baselines for AI research in the work domain.
-- **[WorkRB site](https://github.com/techwolf-ai/workrb-site)** — the GitHub Pages site for the WorkRB package.
+- **[WorkRB](https://github.com/techwolf-ai/workrb)** — the Work Research Benchmark: unified benchmarks and baselines for AI research in the work domain. ([workrb.techwolf.ai](https://workrb.techwolf.ai))
 - **[RecSys-HR Challenge 2026](https://github.com/techwolf-ai/workrb-recsys-hr-challenge-2026)** — our RecSys-HR WorkRB challenge for 2026.
 
 ## Learn more
